@@ -1,0 +1,11 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# A1
+A1*/[[:upper:]]*/
+
+# other
+.idea/
+*.docx
+*.pth
